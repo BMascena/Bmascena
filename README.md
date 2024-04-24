@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="./.github/assets/banner.png"/>
+![perfil do github](https://github.com/BMascena/Bmascena/assets/119455599/fe2a0577-70ba-48c3-94d3-8926fb4fe6f1)
 
 <div align='center'>
 
