@@ -32,7 +32,7 @@
 <br />
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## Contact me
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-mascena-6076b5a8/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:)
