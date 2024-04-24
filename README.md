@@ -3,6 +3,8 @@
 ![perfil do github](https://github.com/BMascena/Bmascena/assets/119455599/fe2a0577-70ba-48c3-94d3-8926fb4fe6f1)
 
 <div align='center'>
+  
+![perfil do github linha](https://github.com/BMascena/Bmascena/assets/119455599/7b001107-cdbb-412a-ad19-1b85a05d0451)
 
 <div align="center">  
   
@@ -14,9 +16,9 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+![perfil do github linha](https://github.com/BMascena/Bmascena/assets/119455599/7b001107-cdbb-412a-ad19-1b85a05d0451)
 
-<div><br />
+<div><br/>
 
 ## Minhas tecnologias
 
@@ -30,7 +32,12 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Amo inovação, gosto de aprender sobre tudo me considero uma pessoa comunicativa e gosto da ideia de poder agregar valor a vidas das pessoas de alguma forma, seja ensinado ou em uma conversa!<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Vamos bater um papo sobre tecnologia e o impacto de transformação que isso pode gerar para o nosso futuro!
 <br />
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+</div>
+
+![perfil do github linha](https://github.com/BMascena/Bmascena/assets/119455599/7b001107-cdbb-412a-ad19-1b85a05d0451)
+
+<div>
 
 ## Contato
 
