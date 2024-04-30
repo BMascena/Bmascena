@@ -22,7 +22,7 @@
 
 ## Minhas tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,node,figma,notion,trello,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,figma,notion,vscode,git,github&theme=dark" />
 
 ## Sobre mim!
 
